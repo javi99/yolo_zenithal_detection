@@ -1,2 +1,2 @@
 # yolo_zenithal_detection
-Resultats del treball de recerca: Estudi sobre la categorització d’elements terrestres a partird’imatges aèries de pla zenital.
+Resultats del treball de recerca: Estudi sobre la categorització d’elements terrestres a partird’imatges aèries de pla zenital on s'avaluen 11 models, 6 entrenats amb la xarxa yolo i 5 entrenats amb la xarxa yolo. Aquests models s'han entrenat amb 10.000 i 40.000 imatges, i resolucions de 320x320 i 480x480 en funció del model. Al canal de youtube https://www.youtube.com/channel/UCGswvaHfkdoATqWwfejhAlw es poden consultar els resultats visuals d'aplicar cadascun dels models a 4 localitzacions del dataset.
